@@ -1,2 +1,2 @@
-# shrienk-url
-Shrienkifies the long URL of the Application
+# shrink-url
+This service will shrink the URL provided to it.
